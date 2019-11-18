@@ -1,0 +1,1 @@
+{"jobID":"5c533b5e-3d0a-84db-4e11-a7dc0a0a3cd8","spec":{"type":"policy","cause":{"Message":"","User":"Diego LElis \u003cdlelis@eastsidegamestudio.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
